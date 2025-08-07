@@ -118,6 +118,12 @@
 * Addressed rules:
   * asam.net:xodr:1.7.0:road.geometry.contact_point
 
+### check_asam_xodr_road_geometry_elem_asc_order
+
+* Description: <geometry> elements shall be defined in ascending order along the road reference line according to the s-coordinate.
+* Addressed rules:
+  * asam.net:xodr:1.4.0:road.geometry.elem_asc_order
+
 ### check_asam_xodr_road_geometry_parampoly3_length_match
 
 * Description: The actual curve length, as determined by numerical integration over the parameter range, should match '@Length'.
