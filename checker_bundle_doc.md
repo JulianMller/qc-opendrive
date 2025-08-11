@@ -152,7 +152,7 @@
 
 * Description: One <geometry> element shall contain only one element that further specifies the geometry of the road.
 * Addressed rules:
-  * asam.net:xodr:1.4.0:road.geometry.one_geom_elem_per_spec
+  * asam.net:xodr:1.7.0:road.geometry.one_geom_elem_per_spec
 
 ### check_asam_xodr_performance_avoid_redundant_info
 
